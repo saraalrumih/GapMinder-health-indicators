@@ -8,3 +8,6 @@ In this project, we are going to use python to investigate 4 GapMinder indicator
 The project contains the following:
 - Jupyter notebook.
 - 4 csv data files (file for each indicator)
+
+
+Declaration: this project "Investigate a Dataset" was a part of the data science nanodegree by Udacity.
