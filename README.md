@@ -10,4 +10,6 @@ The project contains the following:
 - 4 csv data files (file for each indicator)
 
 
-Declaration: this project "Investigate a Dataset" was a part of the data science nanodegree by Udacity.
+
+
+**Declaration:** this project "Investigate a Dataset" was a part of the data science nanodegree by Udacity.
